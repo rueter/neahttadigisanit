@@ -46,12 +46,10 @@ msgid "Social media"
 msgstr "Соцмедия"
 
 #: neahtta/configs/kyv.config.yaml:146 neahtta/configs/kyv.config.yaml.in:146
-#, fuzzy
 msgid "(incl. <em>ио</em>)"
-msgstr "Соцмедия  (<em>acdnstz</em> букватнеяк)"
+msgstr "(<em>ио</em> букватнеяк)"
 
 #: neahtta/configs/kyv.config.yaml:150 neahtta/configs/kyv.config.yaml.in:150
-#, fuzzy
 msgid "Molodtsov orthography"
 msgstr "Молодцовонь орфографиясо"
 
@@ -60,21 +58,18 @@ msgid "Zyrian for Permyak"
 msgstr ""
 
 #: neahtta/configs/kyv.config.yaml:224 neahtta/configs/kyv.config.yaml.in:224
-#, fuzzy
 msgid "(incl. <em>жзиоч</em>)"
-msgstr "Соцмедия  (<em>acdnstz</em> букватнеяк)"
+msgstr "(<em>жзиоч</em> букватнеяк)"
 
 #: neahtta/configs/kyv.config.yaml:239 neahtta/configs/kyv.config.yaml:268
 #: neahtta/configs/kyv.config.yaml.in:239
 #: neahtta/configs/kyv.config.yaml.in:268
-#, fuzzy
 msgid "Standard (<em>ӝӟӥӧӵ</em>)"
-msgstr "Стардарт (<em>áčđŋšŧž</em>)"
+msgstr "Стардарт (<em>ӝӟӥӧӵ</em>)"
 
 #: neahtta/configs/kyv.config.yaml:243 neahtta/configs/kyv.config.yaml:272
-#, fuzzy
 msgid "Social media (incl. <em>жзиоч</em>)"
-msgstr "Соцмедия  (<em>acdnstz</em> букватнеяк)"
+msgstr "Соцмедия  (<em>жзиоч</em> букватнеяк)"
 
 #: neahtta/configs/kyv.config.yaml.in:145
 #: neahtta/configs/kyv.config.yaml.in:223 neahtta/configs/sanit.config.yaml:125
@@ -214,9 +209,8 @@ msgid "Nenets"
 msgstr "Ненецэнь кель"
 
 #: neahtta/configs/language_names.yaml:72
-#, fuzzy
 msgid "Northern Mansi"
-msgstr "Пелевеёнксонь Хаида"
+msgstr "Пелевеёнксонь Манщи"
 
 #: neahtta/configs/language_names.yaml:73
 msgid "Skolt Sami"
@@ -230,7 +224,7 @@ msgstr ""
 #: neahtta/templates/more_dictionaries.html:34
 #, fuzzy
 msgid "Kildin Saami"
-msgstr "Сколт саамонь кель"
+msgstr "Кильдин саамонь кель"
 
 #: neahtta/configs/language_names.yaml:80
 msgid "Kildin Saami (tolerant)"
@@ -255,9 +249,8 @@ msgid "Khanty"
 msgstr "Хантинь кель"
 
 #: neahtta/configs/language_names.yaml:92
-#, fuzzy
 msgid "Irish"
-msgstr "Финнэнь кель"
+msgstr "Ирэнь кель"
 
 #: neahtta/configs/language_names.yaml:93
 #: neahtta/configs/language_names.yaml:100
@@ -305,29 +298,25 @@ msgstr "сотовоень туртов шожда"
 #: neahtta/configs/saanih.config.yaml:72 neahtta/configs/saanih.config.yaml:102
 #: neahtta/configs/saanih.config.yaml.in:72
 #: neahtta/configs/saanih.config.yaml.in:102
-#, fuzzy
 msgid "(<em>âäáčđŋšž</em>)"
-msgstr "Стардарт (<em>áčđŋšŧž</em>)"
+msgstr "(<em>âäáčđŋšž</em>)"
 
 #: neahtta/configs/saanih.config.yaml:76 neahtta/configs/saanih.config.yaml:106
 #: neahtta/configs/saanih.config.yaml.in:76
 #: neahtta/configs/saanih.config.yaml.in:106
-#, fuzzy
 msgid "(incl. <em>aaacdnsz</em>)"
-msgstr "Соцмедия  (<em>acdnstz</em> букватнеяк)"
+msgstr "(<em>aaacdnsz</em> букватнеяк)"
 
 #: neahtta/configs/sample.config.yaml.in:194
 #: neahtta/configs/sanit.config.yaml:126
 #: neahtta/configs/sanit.config.yaml.in:126
 #: neahtta/tests/configs/sanit.config.yaml:126
-#, fuzzy
 msgid "(incl. <em>acdnstz</em>)"
-msgstr "Соцмедия  (<em>acdnstz</em> букватнеяк)"
+msgstr "(<em>acdnstz</em> букватнеяк)"
 
 #: neahtta/configs/sanit.config.yaml:165
 #: neahtta/configs/sanit.config.yaml.in:165
 #: neahtta/tests/configs/sanit.config.yaml:161
-#, fuzzy
 msgid "Standard (<em>áčđŋšŧž</em>)"
 msgstr "Стардарт (<em>áčđŋšŧž</em>)"
 
@@ -343,19 +332,16 @@ msgid "(<em>а̄е̄ӣо̄ӯӎӊӈҏ</em>)"
 msgstr ""
 
 #: neahtta/configs/sanj.config.yaml:122 neahtta/configs/sanj.config.yaml.in:113
-#, fuzzy
 msgid "(incl. <em>аеиоумннр</em>)"
-msgstr "Соцмедия  (<em>acdnstz</em> букватнеяк)"
+msgstr "(<em>аеиоумннр</em> букватнеяк)"
 
 #: neahtta/configs/sanj.config.yaml.in:91
-#, fuzzy
 msgid "Standard Kildin"
-msgstr "Стандарт"
+msgstr "Кильдинэнь Стандарт"
 
 #: neahtta/configs/sanj.config.yaml.in:112
-#, fuzzy
 msgid "Mobile friendly Kildin"
-msgstr "сотовойнень шожда"
+msgstr "Сотовойнень шожда кильдин"
 
 #: neahtta/configs/sonad.config.yaml:132
 #: neahtta/configs/sonad.config.yaml.in:132
@@ -406,7 +392,6 @@ msgstr "Валкс, кона чарькоди мезе вешнят"
 #: neahtta/configs/language_specific_rules/templates/sonad/about.template:16
 #: neahtta/configs/language_specific_rules/templates/vada/about.template:18
 #: neahtta/configs/language_specific_rules/templates/valks/about.template:18
-#, fuzzy
 msgid "(... And is mobile-friendly!)"
 msgstr "... Ды седе башка сотовойнень шожда"
 
@@ -649,9 +634,8 @@ msgid " (Not found in our corpus)"
 msgstr " (Не найден в нашем корпусе)"
 
 #: neahtta/configs/language_specific_rules/templates/analyses.template:94
-#, fuzzy
 msgid " (No corpus available)"
-msgstr " (Нет корпус для этого языка)"
+msgstr " (Арась корпусозо)"
 
 #: neahtta/configs/language_specific_rules/templates/bahkogirrje/sje/detail_entry.template:57
 #: neahtta/configs/language_specific_rules/templates/detail_entry.template:50
@@ -828,12 +812,11 @@ msgid ""
 msgstr ""
 
 #: neahtta/configs/language_specific_rules/templates/bahkogirrje/about.template:44
-#, fuzzy
 msgid ""
 "Write whatever you want in Pite Saami, and the dictionary will analyze it"
 " to break apart compound words and find base forms."
 msgstr ""
-"Сёрмадт мезе мелеть, валксось максы анализ, конаньсэ вейс сёрмадозьвалтнэ"
+"Сёрмадт мезе мелеть пите саамонь кельсэ, валксось максы анализ, конаньсэ вейс сёрмадозьвалтнэ"
 " явовить эрьва пельксэст пес."
 
 #: neahtta/configs/language_specific_rules/templates/bahkogirrje/about.template:50
@@ -1001,9 +984,8 @@ msgid "Satu & Jouni Moshnikoff sanasto"
 msgstr ""
 
 #: neahtta/configs/language_specific_rules/templates/saan/about.template:79
-#, fuzzy
 msgid "Dictionaries:"
-msgstr "Валкст"
+msgstr "Валкстнэ:"
 
 #: neahtta/configs/language_specific_rules/templates/saan/about.template:80
 msgid ""
@@ -1089,9 +1071,8 @@ msgstr ""
 #: neahtta/configs/language_specific_rules/templates/sanat/about.template:20
 #: neahtta/configs/language_specific_rules/templates/sanit/about.template:20
 #: neahtta/configs/language_specific_rules/templates/sonad/about.template:20
-#, fuzzy
 msgid "How to quote the dictionaries"
-msgstr "Лия валкст"
+msgstr "Кода невтемс валкстнэнь лангс"
 
 #: neahtta/configs/language_specific_rules/templates/saanih/about.template:62
 msgid "Inari Saami ↔ Finnish"
@@ -1267,9 +1248,8 @@ msgid ""
 msgstr ""
 
 #: neahtta/configs/language_specific_rules/templates/sanj/about.template:28
-#, fuzzy
 msgid "About the dictionary"
-msgstr "Лия валкст"
+msgstr "Валкстонть"
 
 #: neahtta/configs/language_specific_rules/templates/sanj/about.template:29
 msgid ""
@@ -1293,9 +1273,8 @@ msgid ""
 msgstr ""
 
 #: neahtta/configs/language_specific_rules/templates/sanj/about.template:32
-#, fuzzy
 msgid "2. Russian-Kildin Saami dictionary"
-msgstr "Лия валкст"
+msgstr "2. рузонь-кильдин саамонь валксось"
 
 #: neahtta/configs/language_specific_rules/templates/sanj/about.template:33
 msgid ""
@@ -1770,9 +1749,8 @@ msgid "prev"
 msgstr ""
 
 #: neahtta/templates/browse.html:107
-#, fuzzy
 msgid "next"
-msgstr "Ненэцень кель"
+msgstr "седе тов"
 
 #: neahtta/templates/browse.html:116
 msgid "Congratulations! You have read the whole dictionary."
@@ -1789,9 +1767,9 @@ msgid " is a possible form of ... "
 msgstr "валпарцунось маштови саемс истямо валсто ..."
 
 #: neahtta/templates/index.html:97 neahtta/templates/index.html:124
-#, fuzzy, python-format
+#, python-format
 msgid "Word <span lang=\"%(_from)s\">%(input)s</span> not found."
-msgstr "Валтнэ %(input)s эзть муеве."
+msgstr "<span lang=\"%(_from)s\">%(input)s</span> валось эзь муеве."
 
 #: neahtta/templates/index.html:105
 #, python-format
@@ -1840,7 +1818,7 @@ msgstr "Сёрмадозь вариантось"
 #: neahtta/templates/macros.html:5 neahtta/templates/macros.html:13
 #, fuzzy
 msgid "Texts"
-msgstr "Ненэцень кель"
+msgstr "Сёрмакодстт"
 
 #: neahtta/templates/mobile_nav_push_menu.html:36
 #: neahtta/templates/mobile_nav_push_menu.html:55
@@ -1862,25 +1840,22 @@ msgstr ""
 "                туртов."
 
 #: neahtta/templates/more_dictionaries.html:28
-#, fuzzy
 msgid "North Saami"
 msgstr "Пелевеёнксонь саамонь кель"
 
 #: neahtta/templates/more_dictionaries.html:29
-#, fuzzy
 msgid "South Saami"
 msgstr "Лембе ёнксонь саамонь кель"
 
 #: neahtta/templates/more_dictionaries.html:30
 msgid "Komi and Udmurt"
-msgstr ""
+msgstr "Коми ды удмурт"
 
 #: neahtta/templates/more_dictionaries.html:31
 msgid "Mari"
-msgstr ""
+msgstr "Мари"
 
 #: neahtta/templates/more_dictionaries.html:32
-#, fuzzy
 msgid "Skolt Saami"
 msgstr "Сколт саамонь кель"
 
@@ -1893,7 +1868,7 @@ msgid "Livonian, Estonian, Vot"
 msgstr ""
 
 #: neahtta/templates/more_dictionaries.html:39
-#, fuzzy
+#, fuzzy, the ENGLISH SHOULD BE Mordvin, PLEASE CHANGE
 msgid "Mordvinian"
 msgstr "Мокшэрзянь кельтне"
 
