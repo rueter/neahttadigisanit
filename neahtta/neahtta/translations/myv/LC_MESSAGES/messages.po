@@ -80,9 +80,8 @@ msgstr ""
 
 #: neahtta/configs/kyv.config.yaml.in:243
 #: neahtta/configs/kyv.config.yaml.in:272
-#, fuzzy
 msgid "Tolerant (incl. <em>жзиоч</em>)"
-msgstr "Соцмедия  (<em>acdnstz</em> букватнеяк)"
+msgstr "(<em>жзиоч</em> букватнеяк маштовить)"
 
 #: neahtta/configs/language_names.yaml:25
 #: neahtta/configs/language_names.yaml:26
@@ -323,9 +322,8 @@ msgstr "Стардарт (<em>áčđŋšŧž</em>)"
 #: neahtta/configs/sanit.config.yaml:169
 #: neahtta/configs/sanit.config.yaml.in:169
 #: neahtta/tests/configs/sanit.config.yaml:165
-#, fuzzy
 msgid "Tolerant (also <em>acdnstz</em>)"
-msgstr "Соцмедия  (<em>acdnstz</em> букватнеяк)"
+msgstr "(<em>acdnstz</em> букватнеяк маштовить)"
 
 #: neahtta/configs/sanj.config.yaml:101 neahtta/configs/sanj.config.yaml.in:92
 msgid "(<em>а̄е̄ӣо̄ӯӎӊӈҏ</em>)"
@@ -1868,7 +1866,7 @@ msgid "Livonian, Estonian, Vot"
 msgstr ""
 
 #: neahtta/templates/more_dictionaries.html:39
-#, fuzzy, the ENGLISH SHOULD BE Mordvin, PLEASE CHANGE
+#, fuzzy, the ENGLISH SHOULD BE Mordvin languages, PLEASE CHANGE
 msgid "Mordvinian"
 msgstr "Мокшэрзянь кельтне"
 
@@ -1933,9 +1931,8 @@ msgid "%(project_name)s Reader"
 msgstr "%(project_name)s лездывалкс"
 
 #: neahtta/templates/reader.html:22
-#, fuzzy
 msgid "Notice"
-msgstr "Водь"
+msgstr "Явт мель"
 
 #: neahtta/templates/reader.html:23
 msgid ""
@@ -1966,15 +1963,15 @@ msgid "Read with %(project_name)s"
 msgstr "Ловнок %(project_name)s марто"
 
 #: neahtta/templates/reader.html:28
-#, fuzzy
+#, fuzzy, edit the [will will] in English
 msgid ""
 "In order to look up a word, hold Alt or Option (⌥) and double click the "
 "word. The service will will connect to this website and return dictionary"
 " entries after a brief pause."
 msgstr ""
-"Эрявикс валонь вешнемга кирдик лепштязь «Alt» эли «Option» (⌥) повнэнть\n"
+"Эрявикс валонть ютавтомга кирдик лепштязь «Alt» эли «Option» (⌥) повненть\n"
 "               ды теке шкастонть кавксть лепштик валонть налткесэ.\n"
-"              Аппаратось вейсэндяви валксонть марто, аламодо мейле сыть\n"
+"              Аппаратось вейсэндяви валкс марто, ды аламодо мейле сыть\n"
 "              валонть ютавтовксонзо-анализэнзэ."
 
 #: neahtta/templates/reader.html:29
@@ -2007,7 +2004,7 @@ msgstr ""
 
 #: neahtta/templates/reader.html:36
 msgid "Browser support"
-msgstr "Ладиця браузерт"
+msgstr "Браузерэнь туртов лезкс"
 
 #: neahtta/templates/reader.html:37
 msgid "The reader is supported in the following browsers:"
@@ -2047,34 +2044,33 @@ msgstr ""
 "                проблемань лисемстэ."
 
 #: neahtta/templates/reader.html:46
-#, fuzzy
 msgid ""
 "We do not store any private data, but we do collect individual dictionary"
 " lookups for statistics and to improve the dictionary."
 msgstr ""
-"Те кедьёнксонть тевс нолдамсто кодаткак IP адрест-мезть а \n"
-"                пурнавить. Валксонь вадрялгавтомга статистиканть туртов\n"
-"                пурнави ансяк вешнезь валтнэде информация."
+"Те кедьёнксонть тевс нолдамсто тынк кодаткак адрест-мезть а \n"
+"пурнатано. Сень таркас, валксонь вадрялгавтомга статистиканть туртов\n"
+"            пурнатано ансяк вешнезь валтнэде информация."
 
 #: neahtta/templates/reader.html:53
 msgid "Includes"
 msgstr "Тесэ максовить"
 
 #: neahtta/templates/reader.html:61
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "If you are looking for other languages, please see our <a "
 "href=\"%(more_dictionaries_link)s\">other dictionaries</a>."
 msgstr ""
-"Эрявиндеряй лия кель, вант, инеськеть, минек <a href=\"/more/\">лия "
-"валкстнэнь</a>."
+"Вешниндерят лия кель, вант, инеськеть, минек лия <a "
+"href=\"%(more_dictionaries_link)s\">валкстнэнь</a>."
 
 #: neahtta/templates/reader_example.html:32
 msgid "Additional instructions"
 msgstr "Поладкс превс путомат"
 
 #: neahtta/templates/reader_ie8_notice.html:1
-#, fuzzy, python-format
+#, python-format
 msgid ""
 "\n"
 "Your web browser is supported, however, you will need to change some\n"
@@ -2082,7 +2078,7 @@ msgid ""
 msgstr ""
 "\n"
 "Браузерэть маштови нолдамс тевс, ансяк кой-мезе сави полавтомс,\n"
-"лиякс Neahttadigisánit ловнома программась а нолдави тевс.\n"
+"лиякс %(app_name)s ловнома программась а нолдави тевс.\n"
 
 #: neahtta/templates/reader_update.html:1
 msgid ""
